@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:white;
+    
+}
+
+body {
+    
+    background-color:pink;
+    
+}
+
+li{
+    
+    list-style:none;
+    display: inline-block;
+    margin: 30px;
+}
